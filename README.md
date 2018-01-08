@@ -1,5 +1,6 @@
 ossprojects
 ===========
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=plastic)](https://github.com/systers/ossprojects)
 
 Systers is committed to helping other women in computing/technology to enhance their coding skills and improve overall development process. We have several open source projects to help with effort.
 
