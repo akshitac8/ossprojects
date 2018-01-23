@@ -1,6 +1,6 @@
 # Contributing Guidelines
 * Subscribe to our [systers-dev](http://systers.org/mailman/listinfo/systers-dev) mailing list and send out an introductory email.
-* You can join our [slack channel](http://systers.io/slack-systers-opensource/).  Each active repo has its own channel to direct questions to (for example #powerup or #portal).  Remember that this is an inclusive community, committed to creating a safe, positive environment.  See the full [Code of Conduct](https://github.com/systers/systers.github.io/blob/master/code_of_conduct.md).
+* You can join our [slack channel](http://systers.io/slack-systers-opensource/).  Each active repo has its own channel to direct questions to (for example #powerup or #portal).  Remember that this is an inclusive community, committed to creating a safe, positive environment.  See the full [Code of Conduct](https://github.com/systers/ossprojects/blob/master/code_of_conduct.md).
 
 [General Guidelines](#general-guidelines)  
 [Opening a New Issue](#opening-a-new-issue)  
@@ -18,7 +18,7 @@
   * Send User Interface, Outreach, and Documentation pull requests to the non-coding branch.
 ## Opening a New Issue
 * If you’d like to create a new issue, please go through our issue list first (open as well as closed) and make sure the issues you are reporting do not replicate the existing issues. 
-*If you’ve determined that this issue doesn’t exist anywhere else.  Use the [issue template](https://github.com/systers/systers.github.io/issues/new) to open a new issue.
+*If you’ve determined that this issue doesn’t exist anywhere else.  Use the [issue template](https://github.com/systers/ossprojects/issues/new) to open a new issue.
 * If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 * Be sure to include a title and clear description, as much relevant information as possible.
 ## Important Reminders
